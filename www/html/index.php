@@ -11,6 +11,10 @@ $date = date("d-m-Y");
 
 <h3> Today date is :<?php echo $date; ?> </h3>
 
+<br>
+
+<hr>
+
 
 <?php 
 echo phpinfo();
